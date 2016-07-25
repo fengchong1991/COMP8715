@@ -1,0 +1,501 @@
+rec_id,voter_reg_num,name_prefix,first_name,middle_name,last_name,name_suffix,age,gender,race,ethnic,street_address,city,state,zip_code,full_phone_num,birth_place,register_date,download_month
+06225604,ralph,michael,esposito,m,02/20/2008,8310 streamview dr #c,huntersville,28078,nc
+00388512,wilma,edwards,roper,f,08/16/1969,780 olive hill rd,franklin,28734,nc
+00260388,annie,,armstrong,f,04/10/1968,1941 guyton rd,bladenboro,28320,nc
+04293218,elizabeth,lauren,schuler,f,10/07/2004,170 trout pond ln #3b,banner elk,28604,nc
+00815787,kathy,b,bradham,f,01/01/1980,1333 apache ln,apex,27502,nc
+01834041,leslie,norwood,surles,m,10/03/1992,1972 godwin lake rd,benson,27504,nc
+02101079,kathleen,n,jordan,f,02/07/1994,5746 carved oak cir,charlotte,28227,nc
+06574040,jerome,richard,walton,m,08/04/2009,107 st brides ct,cary,27518,nc
+06698695,ann,evans,kolb,f,09/22/2009,809 mitchell ave,lexington,27292,nc
+06570726,cordarius,ramon,sanders,m,12/03/2009,24 liberty dr #3b,thomasville,27360,nc
+07247495,sarah,ann,thompson,f,02/17/2011,117 north ridge dr #d,asheville,28804,nc
+07207454,nina,louise,santucci,f,10/13/2011,514 dodson mill rd,pilot mountain,27041,nc
+01499729,alexander,r,amoroso,m,09/24/1988,2908 charolais dr,greensboro,27406,nc
+08217592,maricela,caballero,galarza,f,10/31/2012,28 southchase dr,fletcher,28732,nc
+02854734,michael,t,bennett,m,08/06/1998,2107 good shepherd way,apex,27523,nc
+05819409,krista,louise,brown,f,10/07/2008,10154 robert bost rd,midland,28107,nc
+06491962,shawn,edward,fortenberry,m,06/30/2008,2436 bayleigh dr,vale,28168,nc
+01880831,donnie,,jones,m,10/05/1992,3937 mitchell rd,middlesex,27557,nc
+07554906,james,monterey,crissey,m,08/06/2012,220 stone hedge ct,holly springs,27540,nc
+05100066,shelley,bunn,cagle,f,09/15/2006,120 pinto ln,zebulon,27597,nc
+05702624,wendy,duncan,palmer,f,11/04/2008,583 midway dr,whiteville,28472,nc
+03042788,melvin,conrad,calloway,m,05/06/1999,252 antioch rd,new bern,28560,nc
+06030122,christopher,ronald,berge,m,04/11/2008,1501 ainsworth blvd,hillsborough,27278,nc
+01631461,jennifer,anne,puryear,f,10/08/1990,138 puryear st,roxboro,27573,nc
+02741602,theresa,johnson,davidson,f,09/15/1997,113 keith ln,kings mountain,28086,nc
+05820661,kenneth,john,ricardo,m,10/07/2008,2478 bess chapel church rd,cherryville,28021,nc
+07149415,robert,allen,bays,m,06/08/2011,122 winchester rd,advance,27006,nc
+04675702,manfred,joseph,brooks,m,09/27/2004,1087 roberts chapel rd,stem,27581,nc
+04700990,angela,p,brantley,f,07/29/2004,409 montague ln,raleigh,27601,nc
+00582057,james,edson,jaynes,m,10/03/1974,57 ragwood ln,waynesville,28785,nc
+03932636,jason,scott,mccarter,m,03/03/2003,9718 leslie dr,chapel hill,27516,nc
+01691526,rodney,,mccoy,m,01/25/1990,1501 woodmere dr,greensboro,27405,nc
+02425258,tracy,a,spina,f,02/06/1996,4213 winding oak way,apex,27539,nc
+03281161,jessica,jean,cagle,f,10/10/2000,11921 fairlie pl,raleigh,27613,nc
+04103150,patricia,faye,fulbright,f,10/28/2003,102 daughters dr,newport,28570,nc
+02661047,john,joseph,qualtieri,m,09/30/1996,6960 forest manor dr,denver,28037,nc
+05866691,danny,ray,letterman,m,10/08/2008,167 cobblestone dr,burnsville,28714,nc
+00970972,barry,jones,williams,m,09/06/1982,9 dan hughes ct,greensboro,27405,nc
+00318846,charles,edward,eatmon,m,04/20/1968,284 eatmon hill dr,mars hill,28754,nc
+05838919,brittany,lee,king,f,05/08/2008,6211 wrightsville ave #152,wilmington,28403,nc
+03905185,edwina,,peele,f,08/29/2002,108 hampton dr,plymouth,27962,nc
+08079699,frankie,darel,hayes,m,09/25/2012,1209 red cedar pl nw,concord,28027,nc
+05040643,jasmin,chantel,larue,f,02/10/2006,1603 lakeshore dr,dunn,28334,nc
+04727633,maria,dunlevy,staley,f,09/30/2004,1488 cypress lakes rd,hope mills,28348,nc
+04722328,sandra,alyssa,frazilus,f,08/30/2004,621 royal tower way,cary,27513,nc
+00831522,sarah,p,gunter,f,10/01/1980,4738 sharon rd #15,charlotte,28210,nc
+05215482,amy,cathryn,palo,f,06/29/2006,145 hensley cir,sylva,28779,nc
+03450737,margaret,j,mellon,f,09/26/2000,1403 chase high rd,forest city,28043,nc
+01136135,carrie,autry,honeycutt,f,10/07/1984,973 baptist chapel rd,autryville,28318,nc
+01423828,chris,edward,lowe,m,10/07/1988,2050 brownstone ct,gastonia,28054,nc
+00031316,elizabeth,wilson,shue,f,01/01/1956,103 sonoma valley dr,cary,27518,nc
+02437315,samuel,lamont,hart,m,05/07/1996,6562 cornwall rd,oxford,27565,nc
+03219083,suzanne,davis,blanchard,f,10/05/2000,222 la salle st,wilmington,28411,nc
+04388743,christina,louise,barron,f,09/09/2004,701 warren wilson rd,swannanoa,28778,nc
+07048805,tina,ann potter,pruitt,f,06/29/2010,489 arvil gosnell rd,marshall,28753,nc
+00512442,caroline,allers,miller,f,10/09/1972,108 woodside cir,snow hill,28580,nc
+01159609,marvin,eugene,spaugh,m,10/08/1984,1089 daniel rd,mocksville,27028,nc
+00301325,danny,wayne,wilcox,m,04/16/1968,2586 baker cir,granite falls,28630,nc
+03916625,terence,lee,fernung,m,07/31/2002,12 westover dr,lexington,27292,nc
+03730265,ruth,childress,lawson,f,03/08/2002,2624 smithtown rd,east bend,27018,nc
+00150200,w,mitchell,jackson,m,10/24/1964,2424 jefferson davis hwy,sanford,27332,nc
+02621599,bryan,keith,shaver,m,09/25/1996,213 culp rd,richfield,28137,nc
+02100522,bruce,c,cole,m,12/06/1994,6183 naked creek rd,conover,28613,nc
+01371833,patricia,j,ferguson,f,02/01/1988,10112 hanover hollow dr,charlotte,28210,nc
+03489261,karen,stevenson,spangler,f,08/31/2000,140 village haven cir,clemmons,27012,nc
+00663669,james,allen,hoeger,m,06/09/1976,1114 westridge rd,greensboro,27410,nc
+01316694,melvin,ray,holmes,m,02/26/1986,578 old nc 903 hwy,magnolia,28453,nc
+02182958,timothy,lynn,hoyt,m,12/27/1994,479 whispering woods dr,saluda,28773,nc
+02474764,samuel,davis,artis,m,06/10/1996,1602 kornegay ave,wilmington,28405,nc
+03698866,elizabeth,ann,mccune,f,12/04/2002,1129 fourth creek landing dr,statesville,28625,nc
+02981563,ricky,layne,carver,m,01/26/1998,115 ashworth dr,durham,27707,nc
+05483979,richard,thomas,deblaker,m,07/25/2007,504 suffolk st,kill devil hills,27948,nc
+02506645,rebecca,kay,wintsch,f,10/11/1996,10300 shelter rock ct,charlotte,28214,nc
+03411597,russell,francis,palmeri,m,08/21/2000,338 sleepy gap rd,arden,28704,nc
+01040116,lon,willard,debruhl,m,03/18/1983,689 brevard rd,asheville,28806,nc
+07931647,emily,margaret,mcewan,f,09/18/2012,289 ambling way #720,boone,28607,nc
+06926471,dominique,lee,briar,f,09/17/2010,105 w bias dr,kitty hawk,27949,nc
+00932618,john,glenn,gerald,u,05/01/1981,2328 carved tree ln,charlotte,28262,nc
+06500539,andrew,lee,batiste,m,09/30/2008,5347 esther ln,charlotte,28214,nc
+05296156,vivian,murray,mote,f,11/06/2007,2076 willard rd,willard,28478,nc
+07090493,scott,david,bragdon,m,08/02/2011,1223 e fire tower rd #c,greenville,27858,nc
+07539896,katie,,vanderwende,f,10/05/2012,6150 hungnam place,tarawa terrace,28543,nc
+06585330,stephanie,barford,mcdowell,f,02/06/2009,1217 richardson dr,reidsville,27320,nc
+06445216,william,theodore,gartman,m,10/28/2008,107 quail neck ct,cape carteret,28584,nc
+03729530,robert,lawrence,impink,m,03/08/2002,101 chessington ct,cary,27513,nc
+03294670,karen,elizabeth,reimer,f,10/11/2000,305 meeting house cir,raleigh,27615,nc
+04627161,stephanie,renee,green,f,09/24/2004,1910 hawkins st,raleigh,27610,nc
+05315611,constance,miller,bobbitt,f,10/08/2007,17644 spinnakers reach dr,cornelius,28031,nc
+03353703,barry,shawn,mclaughlin,m,01/14/2000,1913 ridge oaks ct,oak ridge,27310,nc
+07996775,rodrick,mays,barnwell,m,08/21/2012,220 moore dr nw,concord,28025,nc
+04010247,james,casey,webb,m,08/13/2003,37 wind shadows cir,leicester,28748,nc
+03258964,nancy,mae,memolo,f,08/08/2000,104 bradley dr,elizabeth city,27909,nc
+06363624,darryl,kevin,hart,m,09/25/2008,2557 governor's pointe ct ne,concord,28025,nc
+04108275,mary ann,clegg,painter,f,09/29/2003,2433 russ cornett rd,boone,28607,nc
+03413985,josie,blanton,lamm,f,09/21/2000,6309 lenoir dr,wilmington,28412,nc
+02915379,deborah,lynn,justice,f,09/14/1998,204 tupelo ln,washington,27889,nc
+06048370,gaither,,norris,m,08/11/2008,506 longfellow st,fuquay varina,27526,nc
+01860114,jerry,lee,neal,m,10/05/1992,208 s spence ave,goldsboro,27534,nc
+06276661,claire,,gailliard,f,09/22/2008,203 tribune dr,charlotte,28214,nc
+02589652,sherman,lee,mckinney,m,06/21/1996,146 central ave,swannanoa,28778,nc
+00984423,donna,margaret,duncan,f,04/17/1982,140 anglers cove ln,statesville,28625,nc
+00879036,patricia,ann tart,hinson,f,04/08/1980,1156 middle rd,dunn,28334,nc
+03205501,deborah,,chapman,f,08/04/2000,188 prospectors trl,black mountain,28711,nc
+05563892,donald,roy,carothers,m,10/01/2008,702 johns ln,gastonia,28052,nc
+06959855,jesse,vance,solomon,m,09/21/2010,1 university-mills hts #418c,asheville,28804,nc
+00124612,jimmy,michael,moore,m,10/10/1964,1288 charlotte hwy,mooresville,28115,nc
+07441142,samuel,lavern,white,m,11/02/2012,2619 peachtree st,winston salem,27107,nc
+04539324,frances,,walker,f,07/19/2004,602 27th st #b,butner,27509,nc
+00601768,henry,allen,broome,m,03/23/1974,739 chair rd,new bern,28560,nc
+03576938,peter,christopher,hausmann,m,11/14/2001,905 lancaster st,durham,27701,nc
+01507228,dennis,jay,rhoton,m,02/27/1988,4000 white pine dr,greensboro,27407,nc
+07769515,ethel,mae,jones,f,10/12/2012,1316 christian light rd,fuquay varina,27526,nc
+03318377,peggy,miller,hewett,f,03/13/2000,404 hewettown rd sw,bolivia,28422,nc
+01010199,angelia,denise,harris-jones,f,07/30/1982,311 deerfield ave,durham,27712,nc
+00461069,nancy,d,cochrane,f,01/01/1972,13212 phillips rd,matthews,28105,nc
+02891851,crystal,bullock,blease,f,10/10/1998,833 winterfield dr,winterville,28590,nc
+01385117,susan,w,landgraf,f,10/01/1988,9401 radner ln,charlotte,28277,nc
+04073369,william,l,mills,m,09/23/2003,45 church st se,concord,28025,nc
+04358232,stephanie,ann,smith,f,10/08/2004,1136 brigadoon ct,concord,28025,nc
+05461889,timothy,james,peine,m,10/22/2007,6620 jacobs creek cir,fayetteville,28306,nc
+03557203,ebony,samirah,hawkins,f,02/12/2001,100 kristin dr #g-8,greenville,27834,nc
+03185707,anthony,louis,lantzy,m,10/02/2000,315 arlington ave #1602,charlotte,28203,nc
+03880368,patrick,dennis,hannan,m,11/25/2002,2327 big pine dr,matthews,28105,nc
+03908785,andrew,d,chittenden,m,07/30/2002,400 avinger ln #205,davidson,28036,nc
+00704925,hilda,doherty,strasser,f,01/27/1976,105 albany pt,chapel hill,27517,nc
+01170884,rebecca,neal,brown,f,04/09/1984,4705 can do ct,gastonia,28056,nc
+00702985,barbara,m,beecher,f,08/25/1976,61 birch ln,burnsville,28714,nc
+06058718,dakota,william,barringer,m,02/12/2008,9881 foil rd,mt pleasant,28124,nc
+06004266,sarah,catherine,modisette,f,12/10/2008,9502 sweetbay ct,waxhaw,28173,nc
+00630276,jo,l,fontana,f,07/01/1976,4500 sugarwood dr,charlotte,28226,nc
+01777043,roy,lee,coleman,m,04/30/1991,219b harper ave,carolina beach,28428,nc
+07736955,michelle,katherine,sweeney,f,01/12/2012,4411 manor village way #202,raleigh,27612,nc
+06024370,imelda,beatriz,azcue,f,04/11/2008,10075 revolution ct #e,charlotte,28262,nc
+00081179,james,luther,tysinger,m,05/05/1962,1609 old camp rd,denton,27239,nc
+03600330,amy,rachel,hall,f,02/19/2001,3402 donegal dr,clemmons,27012,nc
+07543617,atheana,laural,bayer,f,01/06/2012,1685 e hudson blvd,gastonia,28054,nc
+05936678,nicholle,,surratt,f,09/10/2008,1148 partridge ln,winston salem,27106,nc
+02705698,james,a,mcnair,m,09/08/1997,224 virginia rd,black mountain,28711,nc
+06825166,tonya,jean,south,f,01/07/2010,906 greensboro rd,crumpler,28617,nc
+05425274,cynthia,ballard,goodson,f,03/19/2007,1102 e oak island dr,oak island,28465,nc
+07887201,hannah,urica,gill,f,08/17/2012,9201 university city blvd,charlotte,28223,nc
+06757567,cailin,ann,kelly,f,02/01/2010,688 mcdonald st,simpson,27879,nc
+00684698,steven,delbert,grigg,m,07/19/1976,428 n laurel st,lincolnton,28092,nc
+04156722,kenneth,bradford,rich,m,09/02/2004,33 ballew st,canton,28716,nc
+06050391,natalie,jane,griffith,f,08/11/2008,292 roberts dr,hendersonville,28739,nc
+06946859,robert,valentine,fernandez,m,01/20/2010,3027 maple ave #u3,burlington,27215,nc
+06429139,jonathan,allen,day,m,07/28/2008,1048 nugget ct #9a,charlotte,28262,nc
+06482865,keith,dunlap,hamilton,m,12/29/2008,2385 stoney run dr,oakboro,28129,nc
+01850159,alex,darrell,gossett,m,05/05/1992,206 stapleton way,high point,27265,nc
+03654168,gene,lamar,harmon,m,01/29/2001,6409 fayetteville rd #120-300,durham,27713,nc
+01860692,david,scott,hughes,m,10/05/1992,841 darlington rd,rutherfordton,28139,nc
+07662093,elliott,alexander,jeffers,m,07/09/2012,330 g shaw rd,ivanhoe,28447,nc
+08141627,jaimee,l,wear,f,02/28/2012,313 kimberwicke dr,fayetteville,28311,nc
+03136418,guy,deon,lewis,m,11/23/1999,120 tucker st,whiteville,28472,nc
+02923464,kathleen,vance,weitz,f,01/16/1998,63 old fort shores rd,chocowinity,27817,nc
+02176260,sarah,gray,lamm,f,07/25/1994,308 bolin creek dr,carrboro,27510,nc
+00959111,wanda,b,green,f,11/02/1982,13417 nc highway 125,oak city,27857,nc
+00474577,ethel,h,garrison,f,10/01/1972,1124 galloway rd,charlotte,28262,nc
+00780938,richard,hunter,hopper,m,03/31/1978,1690 bethlehem church rd,reidsville,27320,nc
+07820821,cathy,ann,benton,f,08/13/2012,6542 aubrey notch sw,ocean isle beach,28469,nc
+05779718,candace,leigh,cozart,f,10/06/2008,151 halyburton memorial pkwy #106,wilmington,28412,nc
+02268592,kelli,dennis,tetterton,f,04/13/1995,6603 lupine ct,wilmington,28405,nc
+07947881,tyrell,d,stephens,m,04/19/2012,453 deer stand dr,lumberton,28358,nc
+00490071,toni,stephanie,mcelheney,f,04/06/1972,707 chadwick shores dr,sneads ferry,28460,nc
+07458607,joseph,d,willett,m,05/03/2012,3009 silky dogwood trl,apex,27502,nc
+00517360,jane,gibson,kimrey,f,01/10/1972,2529 gordon rd,high point,27265,nc
+02542912,mitchell,dean,pilcher,m,05/15/1996,5812 lagu pl,fayetteville,28314,nc
+00207088,alice,s,sherrill,f,03/01/1968,4207 gladstone ln,charlotte,28205,nc
+03629195,joshua,shane,music,m,09/24/2001,1820 council ave,statesville,28625,nc
+05520892,frank,charles,emmerich,m,01/29/2007,209 summerlake dr sw,concord,28025,nc
+07056225,frances,,horne,f,10/29/2010,1521 rice ct,high point,27265,nc
+05062091,emily,ann,waite,f,06/12/2006,500 paladin dr #g,greenville,27834,nc
+00248569,mable pauline,bumgarner,hendrix,f,04/06/1968,1325 s collegiate dr #2b,wilkesboro,28697,nc
+03934547,seth,michael,walker,m,07/03/2003,382 february rd,newland,28657,nc
+07671377,renita,best,stewart,f,10/09/2012,403 college st,kinston,28501,nc
+05366160,cynthia,kimble,stevens,f,04/13/2007,378 brians woods rd,maple hill,28454,nc
+01035810,judy,reeves,lominac,f,05/13/1983,1411 thompson dr,concord,28025,nc
+08049176,brian,ashby,shaw,m,05/24/2012,252 pine hill rd,boone,28607,nc
+00044275,mollie,grace,howell,f,04/28/1956,1804 forest hills rd w,wilson,27893,nc
+07880901,nicholas,keller,oherle,u,05/17/2012,1956 5th st ln nw,hickory,28601,nc
+05374887,jasmine,ann,graham,f,12/13/2007,3942 hathaway hills dr,charlotte,28214,nc
+02365354,towanna,w,jones,f,05/31/1995,422 ridgeway ave,charlotte,28204,nc
+05687412,harold,,nunn,m,09/04/2008,3515 n roxboro st #4,durham,27704,nc
+06111163,sheronda,rosha,mcclean,f,09/14/2008,1013 wave crest dr #211,wilmington,28403,nc
+06824645,alyesha,nicole,grady,f,12/06/2010,801 sheffield ct,wilmington,28411,nc
+07779958,blake,,price,u,10/12/2012,1704 weeksville rd,elizabeth city,27909,nc
+05331181,robert,steven,huff,m,04/10/2007,265 e magnolia rd,north wilkesboro,28659,nc
+07399130,phyllis,diane,lee,f,10/01/2012,410 stokes st,reidsville,27320,nc
+01678626,tony,randall,watson,m,03/21/1990,5254 cane creek rd,bakersville,28705,nc
+01214225,william,a,baker,m,03/22/1984,206 grandview ave,morganton,28655,nc
+05055381,sandra,r,grimes,f,09/11/2006,8212 hurrican ln,fayetteville,28314,nc
+06479329,lula,mae,peoples,f,10/29/2008,1314 martin luther king jr dr,asheboro,27203,nc
+06570177,phyllis,e,paullin,f,12/03/2009,5201 crooked bluff ln,fuquay varina,27526,nc
+03013024,normaree,harris,lee,f,08/31/1998,90 wedgefield pl,asheville,28806,nc
+07666953,otis,douglas,alexander,m,10/09/2012,1408 brookside dr #303,raleigh,27604,nc
+05132153,donald,william,murphy,m,06/19/2006,4908 lunar dr,kitty hawk,27949,nc
+00946546,david,woodard,daniel,m,01/01/1982,2617 haventree ct,apex,27502,nc
+07215499,sadonna,kaye,latimore,f,07/14/2011,140 holly mountain rd,holly springs,27540,nc
+04742890,linda,renee,taylor,f,06/01/2005,233 middlebrook dr,wilkesboro,28697,nc
+03731821,steve,,harris,m,05/08/2002,4303 hudsons crossroads rd,greenville,27858,nc
+06190302,michael,clark,stephens,m,07/18/2008,5973 woodhall,hickory,28602,nc
+01148505,garland,w,hendrix,m,10/08/1984,5075 lakeview dr,salisbury,28147,nc
+03315517,terisa,ann,smith,f,10/12/2000,32 willie mcleod rd,taylorsville,28681,nc
+02569497,margaret,mansfield,tremonte,f,01/19/1996,256 s us hwy 19e,newland,28657,nc
+07740992,david,peter,gagliardo,m,03/12/2012,10011 gladwick ct,huntersville,28078,nc
+07948029,cathy,denise,dills,f,04/19/2012,5101 tybrook ct #303,raleigh,27612,nc
+04049493,rosemary,elizabeth cohen,burke,f,12/19/2003,202 brookwood ave,wilmington,28403,nc
+05819911,jerry,,deshane,m,10/07/2008,4114 geneva dr,franklinton,27525,nc
+03122618,erin,nicole,kobetz,f,05/21/1999,106 ashe st,carrboro,27510,nc
+02433540,kenneth,lee,pierce,m,02/07/1996,515 rolling rd,haw river,27258,nc
+04968868,dennie,dewayne,reagan,m,02/03/2006,303 grandview ln,lincolnton,28092,nc
+02733110,bernadette,berdinka,becker,f,10/13/1997,0 kelly ln,poplar branch,27965,nc
+07590359,thomas,dupree,higgins,m,02/07/2012,1811 front st,beaufort,28516,nc
+05892204,warren,scott,weaver,m,09/09/2008,415 riverside ln,stella,28582,nc
+06853134,alexander,antonio,victalino,m,12/08/2010,316 seymour pl,cary,27519,nc
+06898328,geary,taylor,walton,m,07/14/2010,5777 greedy hwy,hickory,28602,nc
+07100484,jose,jesus,atilano medina,m,07/03/2011,4121 lake lynn dr #103,raleigh,27613,nc
+00042886,albert,lealon,daniel,m,08/25/1956,7315 rock ridge sims rd,sims,27880,nc
+03039300,jamie,marie,williams,f,08/05/1999,303 soundview dr,kill devil hills,27948,nc
+02634670,samuel,,kyei,m,03/27/1996,3900 overland hts #f,greensboro,27407,nc
+00822528,michael,m,murphy,m,04/01/1980,4548 kuykendall rd,charlotte,28270,nc
+05407484,sandra,gabriela,domenack,f,05/17/2007,12934 tahoe dr,charlotte,28273,nc
+05179809,earnestine,high,phillips,f,01/25/2006,380 vista cir #b,winston salem,27106,nc
+06898841,kevin,todd,haithcock,m,09/14/2010,202 church st,cramerton,28032,nc
+02245144,eric,gerard,howlett,m,06/09/1995,538 carlisle dr,indian trail,28079,nc
+07253444,john-samuel,vlderico,fulghieri,m,10/17/2011,204 copper beech ct,chapel hill,27517,nc
+04217797,kevin,anthony,greene,m,10/04/2004,5947 old plank rd,high point,27265,nc
+07093689,dennis,alan,martin,m,11/02/2011,615 wetherington landing rd,stella,28582,nc
+08020104,willie,dynrell,howard,m,09/22/2012,5218 kiev dr,charlotte,28216,nc
+06601772,kay,frances,lewis,u,07/08/2009,499 parnell rd,lumberton,28360,nc
+06579595,katina,natasha,williams,f,03/05/2009,4610 dunhill ln sw,concord,28027,nc
+01530789,charlie,edward,cannon,m,10/04/1989,820 cannon ln,greenville,27834,nc
+05195471,cheryl,l,king,f,02/27/2006,36 snowbird rd,robbinsville,28771,nc
+05488514,chad,daniel,balke,m,01/26/2007,4208 broadwater dr,kernersville,27284,nc
+08151635,kelly,,reese,m,09/28/2012,2068 rossmore rd,clemmons,27012,nc
+05562488,brittany,renae,wright,f,08/01/2008,4713 courtside pl #d,raleigh,27604,nc
+05140595,rebecca,lynn,hartmann,f,03/20/2006,6843 walters rd,gibson,28343,nc
+06681859,vickie,lynn,meador,f,03/20/2009,167 old thomas ln,henderson,27537,nc
+02875769,katherine,louise,sommese,f,04/09/1998,113 woodcroft ln,rocky point,28457,nc
+07924271,dana,lynon,cousart,f,07/18/2012,520 ethel ct,charlotte,28214,nc
+00697327,joyce,moore,conner,f,02/23/1976,20 hummingbird ln,asheville,28806,nc
+00013926,mary,b,allen,f,05/01/1952,2242 crescent ave,charlotte,28207,nc
+03724407,charles,robert,sink,m,08/07/2002,2678 ridge rd,lexington,27295,nc
+05666888,hollis,c,maupin,m,01/04/2008,188 2nd st #22,ayden,28513,nc
+01865005,james,atlas,chadwick,m,10/05/1992,517 kingston ave,rocky mount,27803,nc
+07762164,zachary,,broyhill,m,10/12/2012,135 forest ave,franklin,28734,nc
+00167105,anne,r,kirkman,f,10/01/1966,5100 sharon rd #620,charlotte,28210,nc
+07876767,jane,marie,piccone,f,01/17/2012,11366 foxhaven dr,charlotte,28277,nc
+05152553,krista,jean,davis,f,07/21/2006,238 s gordon dr,winston salem,27104,nc
+03881687,wendy,ann,farrior,f,02/26/2002,4111 hearthside dr #204,wilmington,28412,nc
+02104320,tracie,mcmillan,beaver,f,10/07/1994,32 gentle lily dr,canton,28716,nc
+03147268,stephen,keith,dukes,m,04/26/1999,36072 banks rd,mt pleasant,28124,nc
+02002437,sandra,mauria,nichols,f,09/30/1992,730 rochester st,durham,27704,nc
+00641452,jeane,ann,deyoung,f,10/02/1976,3504 flint st #304-a,greensboro,27405,nc
+05112330,april,marie,schaefer,f,01/17/2006,4014 lake ave,wilmington,28403,nc
+05104654,timothy,wayne,thomas,m,03/16/2006,3932 five points rd,shelby,28150,nc
+00578904,torrens,g,miller,m,10/01/1974,1136 cameo ct,charlotte,28270,nc
+04406290,linda,rudisill,fulbright,f,09/10/2004,5004 alex rd,hickory,28602,nc
+00193556,mary,jean,rhyne,f,04/30/1966,519 n marietta st,gastonia,28052,nc
+07141398,daniel,donovan,courts,m,10/07/2011,7368 us 29 bus,reidsville,27320,nc
+06629911,miressa,duffera,garoma,m,08/12/2009,9312 erinsbrook dr,raleigh,27617,nc
+04726788,leah,,ward,f,09/30/2004,302 hunter st,apex,27502,nc
+07677472,elisha,eva,edmundson,f,01/10/2012,700 foxridge cres #721,durham,27703,nc
+05387809,keith,a,may,m,05/15/2007,309 pleasants ave,cary,27511,nc
+01832482,tauya,denise,little,f,09/03/1992,2949 poinsetta dr,winston salem,27107,nc
+07001350,tilfaun,diane,herring,f,05/24/2010,8815 hobbton hwy,clinton,28328,nc
+05921319,stephen,mark,scudder,m,03/10/2008,105 e newlyn st,greensboro,27408,nc
+06268505,jody lynn,shay,butler,f,05/22/2008,1171 amber pines dr,leland,28451,nc
+05190185,patricia,louise,kriger,f,06/26/2006,10148 montrose dr,charlotte,28269,nc
+02916274,francisco,j,tejidor,m,10/14/1998,10440 leslie dr,raleigh,27615,nc
+04921390,rusty,andrew,cline,m,06/27/2005,5924 hoyt rd,middlesex,27557,nc
+04125231,bradley,hunter,cauthen,m,07/01/2004,316 perry st,raleigh,27608,nc
+01923043,barbara,bellamy,johnson,f,12/14/1992,509 maides ave,wilmington,28405,nc
+03920950,jalal,elizabeth,nadimi,f,08/01/2003,103 crafton park ln,cary,27519,nc
+05762615,philip,marshall,masonoff,m,08/06/2008,14126 waterlyn dr,charlotte,28278,nc
+01860788,vivian,lillie,little,f,10/05/1992,424 center st,oakboro,28129,nc
+05149244,mary,elizabeth,von werne,f,03/21/2006,5763 nc highway 87 s,moncure,27559,nc
+00598080,sandra,r,jones,f,01/16/1974,2087 stewart-hutchens rd,whitsett,27377,nc
+07039840,john,edward,farrell,m,09/28/2010,21 greyabbey dr,pinehurst,28374,nc
+01856578,william,adams,nolen,m,10/05/1992,2822 dresden dr,gastonia,28056,nc
+08179267,terry,leon,dawkins,m,10/29/2012,410 hill st,kings mountain,28086,nc
+06333510,tiffiany,faith,holcomb,f,09/24/2008,159 weaver-wagner ln #2,lexington,27295,nc
+05548103,kenneth,w,talley,m,02/01/2008,3001 seal dr,pfafftown,27040,nc
+05781066,brittany,clark,rice,f,10/06/2008,1099 lake ridge dr,creedmoor,27522,nc
+06281803,michelle,veronica,granger,f,09/22/2008,503 molesworth dr,morrisville,27560,nc
+04227945,eric,scott,turner,m,04/05/2004,1215 carey ct,charlotte,28210,nc
+06259277,pamela,ann,daniels,f,10/21/2008,123 harvette rd,washington,27889,nc
+03940433,lester,donahue,newby,m,04/04/2003,5803 boots ln,fayetteville,28311,nc
+00765010,henry,allen,griffin,m,03/17/1978,191 crater ln,kittrell,27544,nc
+07876181,dionetta,,boone,f,01/17/2012,779 grandin rd,charlotte,28208,nc
+02644054,jill,elizabeth,mcnally,f,08/28/1996,6300 walnut glen dr,willow spring,27592,nc
+03412057,james,william,byrd,m,08/21/2000,1725 caracara dr,new bern,28560,nc
+07808604,david,lee,huizenga,m,03/13/2012,3946 lake spring cove ct,denver,28037,nc
+01316449,laura,friedrich,bargebuhr,f,09/25/1986,113 kemp rd e,greensboro,27410,nc
+00877154,judith,,brady,f,04/08/1980,1842 kelly hunter rd,marshall,28753,nc
+02640995,michael,david,wooten,m,02/28/1996,193 tripp rd,lillington,27546,nc
+01997924,cleo,franklin,hammond,m,09/29/1992,290 curry rd,high point,27265,nc
+05231205,hayward,,jacobs,m,05/31/2006,6201 nile pl #b,greensboro,27409,nc
+05532262,zuri,elise alexandri,harris,f,05/30/2007,658 bruton st,biscoe,27209,nc
+03044967,pamela,thompson,marovich,f,10/06/1999,410 fowler manning rd,richlands,28574,nc
+03998315,robert,glenn,craft,m,12/11/2003,6476 pittsfield dr,fayetteville,28303,nc
+01232146,jesse,william,brown,m,01/27/1984,314 gladstone dr,durham,27703,nc
+05723759,edwin,,evans,m,04/05/2008,212 four ply ln,fayetteville,28311,nc
+07716464,anne,rhymer,schwabland,f,08/11/2012,101 lanier ln #b,swannanoa,28778,nc
+03208305,diana,patricia,hedrick,f,10/04/2000,1000 glenmont rd,winston salem,27107,nc
+01460343,gene,rupert,taylor,m,10/10/1988,352 smith rd,maysville,28555,nc
+07216704,jonathon,wool,stutts,u,09/14/2011,2120 wolftech ln #202,raleigh,27603,nc
+06869435,devondro,lenard,gadsden,m,09/10/2010,5310 padstow ct,charlotte,28215,nc
+02380926,thomas,r,campbell,m,04/02/1996,124 killingsworth dr,cary,27518,nc
+05344021,william,edward,henley,m,06/11/2007,329 spillman rd,mocksville,27028,nc
+03684482,david,matthew,tarlton,m,05/03/2002,603 craig st,monroe,28112,nc
+04070763,kathryn,elizabeth,allen,f,05/23/2003,1067 tulls creek rd,moyock,27958,nc
+05957252,michael,lee,forsterling,m,10/10/2008,2014 remington oaks cir,cary,27519,nc
+06247561,deborah,lynn,griffin,f,04/21/2008,1883 airport rd,hamlet,28345,nc
+00359686,norma,j,rogers,f,01/30/1968,7 providence rd,asheville,28806,nc
+07145495,terry,lee,hill,m,12/07/2011,104 efird blvd,new bern,28562,nc
+01132684,carolyn,ann,black,f,04/07/1984,904 glenwood ave,greensboro,27403,nc
+03554455,milton,lee,brickhouse,m,10/11/2001,8660 newlands rd,columbia,27925,nc
+07220891,kathlene,darnell,pack,f,10/14/2011,181 elizabeth st,ramseur,27316,nc
+06173852,constance,jo,russell,f,10/17/2008,462 lancaster woods dr sw,supply,28462,nc
+01123999,marla,lois,myers,f,04/06/1984,145 alvis trl,advance,27006,nc
+06398780,helen,beck,sowell,f,05/27/2008,980 old charlotte rd sw,concord,28027,nc
+05994146,anthony,jarmal,sims,m,10/10/2008,1000 dunbrook dr,winterville,28590,nc
+02477731,xiomara,,villalongo,f,10/10/1996,86 broadwell rd,st pauls,28384,nc
+05652644,regina,marle,leikam,f,10/03/2008,4727 birchwood ct,gastonia,28056,nc
+04754087,marie,antoinette,loud,f,12/02/2005,1232 maple tree dr #102,leland,28451,nc
+07369896,darlin,jennever,clemons,f,12/29/2011,76 kerr lake ln,tarboro,27886,nc
+06816937,cathy,cobb,johnson,f,04/06/2010,12212 portrush ln,charlotte,28273,nc
+01355436,virginia,c,aull,f,01/01/1988,2504 huntsman trl,zebulon,27597,nc
+03645101,india,starr,black,f,08/27/2001,7953 shady oak trl #44,charlotte,28210,nc
+03946879,evan,stewart,napoleon,m,03/05/2003,250 yarrow ln,boone,28607,nc
+03373236,ronnie,shane,sheets,m,08/16/2000,112 freda ln,statesville,28677,nc
+00889525,charles,edward,mitchell,m,03/13/1980,2265 white plains rd,roaring river,28669,nc
+06483638,amanda,nicole,lowe,f,01/30/2008,4805 trailwood dr,greensboro,27407,nc
+01187991,kathy,ann,silbiger,f,09/14/1984,9 appleton pl,durham,27705,nc
+03072702,keith,a,brown,m,01/11/1999,3315 n davidson st #2214,charlotte,28205,nc
+08003775,william,,corpening,m,09/21/2012,950 20th st ne #10-e,hickory,28601,nc
+02087287,james,h,goodwin,m,10/03/1994,246 chic-a-moo dr,stony point,28678,nc
+03229893,matthew,,huffman,m,10/06/2000,2512 stafford ave,raleigh,27607,nc
+05381321,ashley,miranda,allred,f,09/14/2007,203 e fairfield rd,high point,27263,nc
+02239179,juliet,ford,wysinger,f,06/08/1995,6527 jamaica ct,fayetteville,28314,nc
+06787788,latisha,monique,mcsweeney,f,12/02/2010,7930 caratoke hwy,powells point,27966,nc
+03799757,andrew,kevin,oliver,m,04/15/2002,254 crowell dr sw,concord,28025,nc
+06089423,edward,lamont,wright,m,08/13/2008,1809 s greene st,greenville,27834,nc
+01756368,gary,randall,berrier,m,01/18/1991,750 mcdowell rd,winston-salem,27107,nc
+05020451,joshua,brandon,mcelrath,m,11/07/2006,51 wnc baptist camp rd,candler,28715,nc
+04920532,richard,holvey,harris,m,05/27/2005,3960 windsor place dr,winston salem,27106,nc
+00171519,margaret,estelle,darnell,f,05/07/1966,480 26th ave ne,hickory,28601,nc
+05300443,stacey,marlene,martin,f,05/07/2007,101 nicolet ln,smithfield,27577,nc
+05164941,todd,silas,seymour,m,12/22/2006,1893 possum trot rd,new bern,28562,nc
+03718877,william,philip,meisel,m,01/07/2002,210 e e st,erwin,28339,nc
+03647198,sarah,elizabeth,hinson,f,11/27/2001,4700 zion church rd,concord,28025,nc
+01175263,laurie,dow,gardner,f,08/10/1984,598 ashworth loop,marion,28752,nc
+03225312,jennifer,elizabeth,jones,f,04/06/2000,110 s main st,boiling springs,28017,nc
+03069665,karen,estene,alexander,f,09/10/1999,4552 parkwood cir,fayetteville,28303,nc
+04026597,barrett,philip,donohue,m,05/16/2003,2450 medway dr,raleigh,27608,nc
+08171750,shamieka,darnetta,heyward,f,08/29/2012,1672 brook fern way,raleigh,27609,nc
+05185255,noble,d,clemmer,m,09/25/2006,362a northwest backwoods rd,moyock,27958,nc
+01594089,dwayne,kevin,fountain,m,07/03/1990,631 crutchfield rd,union mills,28167,nc
+00915690,frank,v,ridgell,m,03/26/1980,287 mattie ridgell ln,lillington,27546,nc
+06739183,sherri,lynn,spence,f,01/29/2009,9515 benton pl,charlotte,28277,nc
+04087537,robbie,carl,palmer,m,02/26/2003,1741 gracechurch st,wake forest,27587,nc
+01476339,sandy,barham,nesbit,f,08/15/1988,3334 montanya view dr se,valdese,28690,nc
+07634164,jael,lyn,dejesus,f,11/08/2012,105 lennox cir,jacksonville,28546,nc
+00369790,marvin,lee,philyaw,m,03/30/1968,184 richlands rd,trenton,28585,nc
+00928980,elizabeth,wall,cobb,f,09/30/1980,134 crest hill dr,morganton,28655,nc
+05674746,kelly,ann,chapman,f,04/04/2008,10115 woodberry trail ln #710,charlotte,28262,nc
+00304379,ruth,minton,johnson,f,04/18/1968,562 s windy gap rd,north wilkesboro,28659,nc
+02332924,james,alfred,daves,m,02/25/1995,109 shetland ct,drexel,28619,nc
+02822397,daniel,duane,neal,m,06/02/1998,1371 barker dr,randleman,27317,nc
+00556799,forrest,a,aiken,m,01/01/1973,11909 n exeter way,raleigh,27613,nc
+05282051,kimberly,denise,shoffner,f,10/05/2007,3248 bamburgh ct,charlotte,28216,nc
+02754822,linda,sue,keener,f,07/18/1997,3112 s elm-eugene st,greensboro,27406,nc
+05937927,channthou,,touch,f,09/10/2008,3847 shamrock dr,charlotte,28215,nc
+07102216,debra,bostic,pearson,f,10/03/2011,13 castle dr,clyde,28721,nc
+01141001,susan,h,cannady,f,05/08/1984,249 s denise ave,coats,27521,nc
+07213836,autumn,kendra,sutton,f,04/14/2011,864 jupiter rd,weaverville,28787,nc
+06888718,brandon,james,jennings,m,05/13/2010,1118 bridlemine dr,fuquay varina,27526,nc
+00931087,bruce,lloyd,robinson,m,03/31/1980,28 e chippendale dr,mills river,28759,nc
+06251282,kevin,michael,chunn,m,07/21/2008,112 pearl dr,beaufort,28516,nc
+01427331,victoria,elizabeth,norris,f,10/07/1988,103 townhouse dr #a,whiteville,28472,nc
+00561941,maurice,r,wheat,m,10/05/1973,1103 georgia ave,roanoke rapids,27870,nc
+01998103,angela,cannady,cope,f,09/29/1992,6900 cassam rd,bahama,27503,nc
+06313604,rebecca,eudy,whitley,f,01/24/2008,4542 polk ford rd,stanfield,28163,nc
+02383643,tracy,jo,crawford,f,07/02/1996,2702 harleck ct,greensboro,27407,nc
+04204828,denise,,gratti,f,08/04/2004,7232 great laurel dr,raleigh,27616,nc
+05029150,donald,robert,riley,m,11/08/2006,2612 rock oak ct,raleigh,27613,nc
+03728159,patricia,hales,dickerson,f,01/08/2002,4119 orange grove rd,hillsborough,27278,nc
+06564130,valleria,demecia,walker,f,02/03/2009,5529 peacock rd,whiteville,28472,nc
+04972835,charles,ray,turney,m,07/03/2006,5101 pioneer dr,sanford,27330,nc
+05557028,jeffrey,steven,dahlberg,m,05/01/2008,1 duke university west campus dorm,durham,27708,nc
+04907398,kristy,susan,miller,f,10/24/2005,400 raintree rd,jacksonville,28540,nc
+02369876,reginald,abraham,johnson,m,03/01/1996,115 vera dr,reidsville,27320,nc
+04353324,douglas,leo,luckett,m,10/08/2004,5405 cedar field dr,summerfield,27358,nc
+05258544,amy,lynn,waters,f,05/03/2007,49 fern st,asheville,28803,nc
+00807646,vanessa,terry,hoover,f,09/29/1979,208 pennington ave,lexington,27292,nc
+00830774,edward,e,lewis,m,10/01/1980,1101 scottsdale rd,charlotte,28217,nc
+03206793,harald,s,dulberg,m,10/04/2000,12524 landing green dr,charlotte,28277,nc
+04662584,syed,shafeeq,mehdi,m,04/27/2004,510 key west mews,cary,27513,nc
+00990010,denver,eugene,mcmahan,m,05/20/1982,216 taylor st,magnolia,28453,nc
+02074940,doris,rowe,jacobs,f,12/30/1993,340 rock quarry dr,thomasville,27360,nc
+04368702,capri,printess,montgomery,m,10/08/2004,909 molesworth dr,morrisville,27560,nc
+02089791,brandy,jarrell,mauldin,f,04/04/1994,455 ladonia church rd,mount airy,27030,nc
+02503392,lenora,,frederick,f,10/11/1996,601 w wards bridge rd,warsaw,28398,nc
+04656963,rebecca,kay,baron,f,08/26/2004,904 emory ct,fayetteville,28311,nc
+03076827,karen,elizabeth,nicholson,f,01/12/1999,12 molly's way,brevard,28712,nc
+04218695,yan,,ke,m,10/04/2004,245 e connecticut ave,southern pines,28387,nc
+03818267,christine,gail,dinan,f,05/17/2002,2533 buckboard trl,rocky mount,27804,nc
+05265737,kevin,peter,wirhouski,m,01/04/2007,112 highwoods dr,goldsboro,27530,nc
+03549751,maurice,thomas,lennon,m,01/11/2001,322 mccullum rd,clarkton,28433,nc
+06336332,heidi,lynn,conis,f,10/24/2008,9652 bailey rd,cornelius,28031,nc
+07117133,richard,dillard,churn,m,07/05/2011,706 ann dr,belmont,28012,nc
+04936077,debekah,egery,whitley,f,07/29/2005,901 mill st,albemarle,28001,nc
+05693776,reginald,nathaniel,smith,u,11/04/2008,1704 weeksville rd,elizabeth city,27909,nc
+01652050,nancy yueh,m,lai,f,06/12/1990,16 willow spring pl,chapel hill,27517,nc
+00144211,evelyn,kornegay,dawson,f,10/17/1964,4453 n us 13 hwy,goldsboro,27534,nc
+01880916,toby,douglas,barnette,m,10/05/1992,2516 coley rd,durham,27703,nc
+07029589,michael,joseph,marshke,m,09/27/2010,607 birkdale dr,clayton,27527,nc
+04224343,pamela,bost,kennedy,f,02/05/2004,3407 futura ln,raleigh,27610,nc
+02277720,andrew,,thompson,m,09/14/1995,2101 banks school rd,kinston,28504,nc
+05437368,jennifer,elizabeth,howell,f,06/20/2007,2627 sawmill rd,raleigh,27613,nc
+05111736,christina,jo,payne,f,01/17/2006,1250 columbus cir #d,wilmington,28403,nc
+07705952,robbin,ernest,moon,m,10/10/2012,394 springway ln,cleveland,27013,nc
+03497317,latoya,monique ferguso,alexander,f,02/02/2001,434 w bank st #5,granite quarry,28072,nc
+07553382,purley,dublin,robertson,f,08/06/2012,2611 summit ridge loop,morrisville,27560,nc
+06931305,stephen,john,riegler,m,03/18/2010,134 college ave,durham,27713,nc
+05313387,thomas,nathaniel,macon,m,06/08/2007,3931 seaton rd,winston salem,27104,nc
+04311922,sandra,salmons,whitley,f,09/08/2004,151 martin farm ln,hiddenite,28636,nc
+04263798,billy,jeral,philyaw,m,10/06/2004,4156 mopar dr,boonville,27011,nc
+06382455,misty,dawn land,joyce,f,08/26/2008,3935 vance st ext,reidsville,27320,nc
+04260220,forrest,edwin,burgess,m,10/06/2004,918 sugar hollow ln #101,wake forest,27587,nc
+05058645,willie,louise,pearson,f,12/11/2006,112 view st,morganton,28655,nc
+04664703,brian,matthew,pyke,m,05/27/2004,1946 big peak creek rd,laurel springs,28644,nc
+07534144,daniel,william,blair,m,10/05/2012,10 alexander dr #313,asheville,28801,nc
+06954370,timothy,anand,sookram,m,10/20/2010,1002 willow dr #18,chapel hill,27514,nc
+08008579,stephen,,rudisill,m,01/22/2012,1247 balthis dr #f,gastonia,28054,nc
+04392836,blythe,lea,gridley,f,10/09/2004,804 n avalon rd #c,winston salem,27104,nc
+07411077,elizabeth,mary,woodward,f,11/01/2012,302 pritchard ave,chapel hill,27516,nc
+05648262,pamela,christine,fowler,f,09/03/2008,1916 pineville dr,hope mills,28348,nc
+07977684,bryan,,morrison,m,08/20/2012,425 green meadows dr,todd,28684,nc
+03985289,michele,calderon,villanueva,u,09/10/2003,11720 kingsley view dr,charlotte,28277,nc
+06129035,sherri,d,hucks,f,09/15/2008,2813 loxdale farms dr,monroe,28110,nc
+06827917,keith,isaac,flood,m,06/07/2010,5861 shady grove cir,raleigh,27609,nc
+07719832,dionta,scott,moody,m,09/11/2012,503 redwine st,monroe,28110,nc
+01534355,rosalyn,renee',smith,f,10/07/1989,603 marlboro st,red springs,28377,nc
+04381077,christopher,sherrill,barbour,m,06/09/2004,2696 nc 96 hwy s,four oaks,27524,nc
+05040536,catherine,harfield,collins,f,01/10/2006,3016 madison ln,denver,28037,nc
+04262297,james,oliver,todd,m,10/06/2004,3505 mount olive rd,whiteville,28472,nc
+00041323,thomas,edward,haymore,m,10/22/1956,6426 providence church rd,winston salem,27105,nc
+02545565,latasha,n,etheridge,f,09/15/1996,411 martin luther king cir,sharpsburg,27878,nc
+00269214,jimmy,wayne,dameron,m,10/12/1968,309 third st sw,hildebran,28637,nc
+03845925,christina,lynn,egerton,f,12/20/2002,824 creekview ln,linden,28356,nc
+06360480,kristopher,michael,wilson,m,09/25/2008,7339 ethans way,burlington,27215,nc
+02817090,james,michael,russell,m,10/01/1998,336 russell rd,denton,27239,nc
+01489478,teresa,ann,galloway,f,01/21/1988,6486 sudbury dr,fayetteville,28304,nc
+06276518,cayjeon,mcdonald,mcdonald,f,09/22/2008,10826 princeton village dr,charlotte,28277,nc
+02178801,william,howell,keever,m,08/26/1994,125 mandy ln,rutherfordton,28139,nc
+04927402,charles,allen,garner,m,03/28/2005,489 nine foot rd,newport,28570,nc
+04844427,matthew,albert,mills,m,07/15/2005,2520 leggett rd,rocky mount,27801,nc
+04281262,brent,garrett,myers,m,09/07/2004,2411 perch rd,pinnacle,27043,nc
+06086063,ebony,patrice,howell,f,06/13/2008,214 stevenson st,mooresville,28115,nc
+00055216,pattie,j,hill,f,01/01/1960,406 snelling rd,raleigh,27609,nc
+06491471,ronny,linton,vest,m,06/30/2008,129 edgewood cir,star,27356,nc
+00175540,ronald,clinton,isley,m,05/14/1966,1950 callie ln,burlington,27215,nc
+03960629,david,dean,thornton,m,03/07/2003,188 corbett hill rd,mt olive,28365,nc
+06777272,courtney,lynette,williams,u,11/02/2010,1401 e millbrook rd #104,raleigh,27609,nc
+03459003,brian,,amos,m,11/27/2000,507 stonelick dr,durham,27703,nc
+05506493,nicole,suzette isaacs,thompson,f,09/27/2007,2471 pepperstone dr,graham,27253,nc
+00870334,linda,cassida,kernick,f,10/06/1980,428 lower grassy branch rd,asheville,28805,nc
+00518048,ted,d,midgett,m,03/10/1972,205 brothers ln,wanchese,27981,nc
+01052099,sylvester,,gillis,m,08/31/1983,4900 n roxboro rd #310,durham,27704,nc
+07428548,ashley,jelese,douglas,f,10/02/2012,706 big twig ln,durham,27703,nc
+03981770,patricia,ellen,rosencrantz,f,02/10/2003,602 hodges st,oriental,28571,nc
+00661452,david,glenn,stallings,m,06/07/1976,1262 long dr,newton,28658,nc
+03270095,marlene,kyle,taraska,f,10/09/2000,4230 4th st ln nw,hickory,28601,nc
+03129809,scott,d,clark,m,09/22/1999,115 braintree ct,cary,27513,nc
+00603090,lee,,amos,m,09/25/1974,3294 amostown rd,sandy ridge,27046,nc
+06776240,matthew,elisha,greene,m,11/02/2010,1604 elwood ave,greensboro,27403,nc
+03501524,tiffany,caruso,harper,f,11/02/2001,188 harper dr,roanoke rapids,27870,nc
+01728981,james,roger,parker,m,10/03/1991,102 brandywine dr ne #d-5,conover,28613,nc
+00920027,joanne,s,karaszewski,f,09/27/1980,13 rocky branch dr,clayton,27520,nc
+05709281,homer,lee,anderson,m,11/04/2008,1413 rhodes rhyne rd,lincolnton,28092,nc
+02886115,margot,elizabeth,brewer,f,02/10/1998,271 south st,vass,28394,nc
+01180070,cynthia,s,sykes,f,05/12/1984,6616 us hwy 70 w,mebane,27302,nc
+03904486,roxanne,mills,armstrong,f,07/29/2002,1100 brookside dr,wilson,27896,nc
+04551144,james,lee,scoggins,m,07/20/2004,330 gem stone loop,summerfield,27358,nc
+00577191,dorothy,r,estridge,f,04/01/1974,5100 sharon rd #309e,charlotte,28210,nc
+01306605,william,david,carpenter,m,09/17/1986,412 e church st,smithfield,27577,nc
+02088430,william,h,everett,m,10/03/1994,4270 us hwy 117 s,burgaw,28425,nc
+03134120,percival,earl,baynes,m,07/23/1999,102 hillcrest rd,louisburg,27549,nc
+02590195,jean,yelverton,pittman,f,08/21/1996,3860 grabtown rd,smithfield,27577,nc
+08140788,charles,earl,mullis,m,01/28/2012,8123 george hildebrand school rd,connelly springs,28612,nc
+03416745,monica,j,macomber,f,03/22/2000,6322 danbrooke park dr,charlotte,28227,nc
+02118136,leslie,b,mahaffey,f,10/10/1994,601 lakehurst rd,fuquay varina,27526,nc
+07778809,kristen,marie,lyell,f,10/12/2012,2100 granville towers s #730,chapel hill,27514,nc
+00623427,james,w,black,m,01/01/1976,9900 lake wheeler rd,fuquay varina,27526,nc
+00247291,bernice,rebecca,hinkle,f,04/06/1968,207 riverview rd,advance,27006,nc
+00941628,larry,,quinn,m,07/22/1981,3306 neal boyce rd,monroe,28110,nc
+05719550,wesley,charles,edwards,m,02/05/2008,8003 agape ln,waxhaw,28173,nc
+00984149,robbie,jean,yarbrough,f,02/17/1982,163 cooper cemetery rd,prospect hill,27314,nc
